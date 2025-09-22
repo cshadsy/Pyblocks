@@ -1,0 +1,22 @@
+body {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+#blocklyDiv {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
+
+#output {
+    border-radius: 4px;
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}

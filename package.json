@@ -1,0 +1,26 @@
+{
+  "name": "blocklytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshadsy/blocklytest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshadsy/blocklytest/issues"
+  },
+  "homepage": "https://github.com/cshadsy/blocklytest#readme",
+  "dependencies": {
+    "blockly": "^12.3.1",
+    "bootstrap": "^5.3.8",
+    "express": "^5.1.0",
+    "pyodide": "^0.28.3"
+  }
+}
