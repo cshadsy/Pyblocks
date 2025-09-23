@@ -51,6 +51,7 @@
                 {"kind": "block", "type": "math_single"},
                 {"kind": "block", "type": "math_constant"},
                 {"kind": "block", "type": "math_number_property"},
+                {"kind": "block", "type": "math_random_int"},
                 {"kind": "block", "type": "pycode"}
             ]
         },
