@@ -34,7 +34,9 @@
                 {"kind": "block", "type": "controls_whileUntil"},
                 {"kind": "block", "type": "controls_for"},
                 {"kind": "block", "type": "controls_forEach"},
-                {"kind": "block", "type": "controls_flow_statements"}
+                {"kind": "block", "type": "controls_flow_statements"},
+                {"kind": "block", "type": "pytrue"},
+                {"kind": "block", "type": "pyfalse"}
             ]
         },
         {
@@ -48,7 +50,8 @@
                 {"kind": "block", "type": "math_trig"},
                 {"kind": "block", "type": "math_single"},
                 {"kind": "block", "type": "math_constant"},
-                {"kind": "block", "type": "math_number_property"}
+                {"kind": "block", "type": "math_number_property"},
+                {"kind": "block", "type": "pycode"}
             ]
         },
         {
